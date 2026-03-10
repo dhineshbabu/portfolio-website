@@ -13,6 +13,9 @@ export const metadata: Metadata = {
   title: "Dhineshbabu Muthuraj | Sr. Performance Engineer",
   description:
     "Portfolio of Dhineshbabu Muthuraj — Sr. Software Development Engineer (Performance) at Workday. 15+ years of expertise in performance engineering, SRE, observability, and cloud platforms.",
+  icons: {
+    icon: "/favicon.svg",
+  },
   openGraph: {
     title: "Dhineshbabu Muthuraj | Sr. Performance Engineer",
     description:

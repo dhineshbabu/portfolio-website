@@ -66,7 +66,7 @@ export const ACHIEVEMENTS: Achievement[] = [
   {
     title: "AI-Powered Bottleneck Detection",
     description:
-      "Integrated AI tools and agents to automate performance bottleneck identification and outage root cause analysis using logs, dashboards, and metrics.",
+      "Integrating AI tools and agents to automate performance bottleneck identification and outage root cause analysis using logs, dashboards, and metrics.",
     icon: "Zap",
   },
   {
@@ -100,9 +100,9 @@ export const ACHIEVEMENTS: Achievement[] = [
     icon: "Database",
   },
   {
-    title: "End-to-End ETL Performance Strategy",
+    title: "Cloud Platform Performance & Monitoring",
     description:
-      "Defined comprehensive performance engineering strategy for ETL pipelines including ETL tuning and Oracle query optimization at enterprise scale.",
+      "Set up end-to-end observability, performance assessment, and test bench automation on AWS — covering CloudWatch, X-Ray, and automated performance pipelines for enterprise cloud workloads.",
     icon: "GitBranch",
   },
   {
